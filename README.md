@@ -1,4 +1,4 @@
-# php-abi
+# ETH ABI for PHP
 
 PHP Ethereum ABI Encoder/Decoder
 
@@ -7,7 +7,7 @@ PHP Ethereum ABI Encoder/Decoder
 
 Then
 ```
-composer require lessmore92/php-abi
+composer require forecho/eth-abi
 ```
 
 # Usage
