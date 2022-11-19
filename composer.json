@@ -1,5 +1,5 @@
 {
-  "name": "lessmore92/php-abi",
+  "name": "forecho/eth-abi",
   "description": "Ethereum ABI",
   "type": "library",
   "license": "MIT",
@@ -11,12 +11,16 @@
     {
       "name": "Lessmore92",
       "email": "bahramisoft@gmail.com"
+    },
+    {
+      "name": "forecho",
+      "email": "caizhenghai@gmail.com"
     }
   ],
   "require": {
     "PHP": "^7.1 || ^8.0",
     "kornrunner/keccak": "~1.0",
-    "phpseclib/phpseclib": "~2.0.11",
+    "phpseclib/phpseclib": "~3.0",
     "ext-mbstring": "*"
   },
   "require-dev": {
