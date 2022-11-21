@@ -1,6 +1,6 @@
 {
   "name": "forecho/web3",
-  "description": "Ethereum ABI",
+  "description": "A PHP library for interacting with Ethereum",
   "type": "library",
   "license": "MIT",
   "authors": [

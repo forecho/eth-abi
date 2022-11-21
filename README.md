@@ -1,4 +1,4 @@
-# Web3for PHP
+# Web3 for PHP
 
 PHP Ethereum ABI Encoder/Decoder
 
